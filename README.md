@@ -37,9 +37,6 @@ This is a choose your own adventure game that I built using IOS Swift! It was su
 
 *Optionals are used in my program to handle cases where a value might be absent. For example, the price property in the Item struct is an Int? because some items, like the VIP Discount Card, do not have a price. When purchasing an item, the program safely unwraps the optional price using if let to check affordability.*
 
-**What extra credit features did you implement, if any?**
-
-* *n/a*
 
 ## Endings
 
