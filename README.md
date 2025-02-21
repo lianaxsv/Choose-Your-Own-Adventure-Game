@@ -1,6 +1,6 @@
-<h2>Choose Your Own Adventure Text Game</h2>
+<h1>Choose Your Own Adventure Text Game</h1>
 
-<h1>Description</h1>
+<h2>Description</h2>
 This is a choose your own adventure game that I built using IOS Swift! It was super fun and has really strengthened my basics in Swift.
 
 **What locations/rooms does your game have?**
